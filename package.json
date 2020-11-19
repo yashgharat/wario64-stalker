@@ -1,0 +1,23 @@
+{
+  "name": "wario64-bot",
+  "version": "1.0.0",
+  "description": "stalking wario64 on twitter",
+  "main": "stalker.js",
+  "dependencies": {
+    "needle": "^2.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node stalker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashgharat/wario64-stalker.git"
+  },
+  "author": "Yash Gharat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashgharat/wario64-stalker/issues"
+  },
+  "homepage": "https://github.com/yashgharat/wario64-stalker#readme"
+}
